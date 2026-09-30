@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
